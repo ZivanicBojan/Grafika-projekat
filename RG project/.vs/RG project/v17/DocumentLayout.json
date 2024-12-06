@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F715DFD0-1661-48BD-B35E-7B1ABE897F29}|RG project\\RG project.vcxproj|C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F715DFD0-1661-48BD-B35E-7B1ABE897F29}|RG project\\RG project.vcxproj|solutionrelative:RG project\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F715DFD0-1661-48BD-B35E-7B1ABE897F29}|RG project\\RG project.vcxproj|C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\Raskrsnica.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F715DFD0-1661-48BD-B35E-7B1ABE897F29}|RG project\\RG project.vcxproj|solutionrelative:RG project\\Raskrsnica.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F715DFD0-1661-48BD-B35E-7B1ABE897F29}|RG project\\RG project.vcxproj|C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\raskrsnica.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F715DFD0-1661-48BD-B35E-7B1ABE897F29}|RG project\\RG project.vcxproj|solutionrelative:RG project\\raskrsnica.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F715DFD0-1661-48BD-B35E-7B1ABE897F29}|RG project\\RG project.vcxproj|C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\countCars.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F715DFD0-1661-48BD-B35E-7B1ABE897F29}|RG project\\RG project.vcxproj|solutionrelative:RG project\\countCars.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F715DFD0-1661-48BD-B35E-7B1ABE897F29}|RG project\\RG project.vcxproj|C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\countCars.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F715DFD0-1661-48BD-B35E-7B1ABE897F29}|RG project\\RG project.vcxproj|solutionrelative:RG project\\countCars.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F715DFD0-1661-48BD-B35E-7B1ABE897F29}|RG project\\RG project.vcxproj|C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\yellow.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{F715DFD0-1661-48BD-B35E-7B1ABE897F29}|RG project\\RG project.vcxproj|solutionrelative:RG project\\yellow.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F715DFD0-1661-48BD-B35E-7B1ABE897F29}|RG project\\RG project.vcxproj|C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\basic.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F715DFD0-1661-48BD-B35E-7B1ABE897F29}|RG project\\RG project.vcxproj|solutionrelative:RG project\\basic.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F715DFD0-1661-48BD-B35E-7B1ABE897F29}|RG project\\RG project.vcxproj|C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\basic.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F715DFD0-1661-48BD-B35E-7B1ABE897F29}|RG project\\RG project.vcxproj|solutionrelative:RG project\\basic.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F715DFD0-1661-48BD-B35E-7B1ABE897F29}|RG project\\RG project.vcxproj|C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\auto.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F715DFD0-1661-48BD-B35E-7B1ABE897F29}|RG project\\RG project.vcxproj|solutionrelative:RG project\\auto.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F715DFD0-1661-48BD-B35E-7B1ABE897F29}|RG project\\RG project.vcxproj|C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\auto.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F715DFD0-1661-48BD-B35E-7B1ABE897F29}|RG project\\RG project.vcxproj|solutionrelative:RG project\\auto.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F715DFD0-1661-48BD-B35E-7B1ABE897F29}|RG project\\RG project.vcxproj|C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\name.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F715DFD0-1661-48BD-B35E-7B1ABE897F29}|RG project\\RG project.vcxproj|solutionrelative:RG project\\name.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F715DFD0-1661-48BD-B35E-7B1ABE897F29}|RG project\\RG project.vcxproj|C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\name.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F715DFD0-1661-48BD-B35E-7B1ABE897F29}|RG project\\RG project.vcxproj|solutionrelative:RG project\\name.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F715DFD0-1661-48BD-B35E-7B1ABE897F29}|RG project\\RG project.vcxproj|C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\trake.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F715DFD0-1661-48BD-B35E-7B1ABE897F29}|RG project\\RG project.vcxproj|solutionrelative:RG project\\trake.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "countCars.frag",
+              "DocumentMoniker": "C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\countCars.frag",
+              "RelativeDocumentMoniker": "RG project\\countCars.frag",
+              "ToolTip": "C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\countCars.frag",
+              "RelativeToolTip": "RG project\\countCars.frag",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-06T00:47:19.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "countCars.vert",
+              "DocumentMoniker": "C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\countCars.vert",
+              "RelativeDocumentMoniker": "RG project\\countCars.vert",
+              "ToolTip": "C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\countCars.vert",
+              "RelativeToolTip": "RG project\\countCars.vert",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-06T00:46:48.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "yellow.png",
+              "DocumentMoniker": "C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\yellow.png",
+              "RelativeDocumentMoniker": "RG project\\yellow.png",
+              "ToolTip": "C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\yellow.png",
+              "RelativeToolTip": "RG project\\yellow.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-05T23:49:32.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "basic.vert",
+              "DocumentMoniker": "C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\basic.vert",
+              "RelativeDocumentMoniker": "RG project\\basic.vert",
+              "ToolTip": "C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\basic.vert",
+              "RelativeToolTip": "RG project\\basic.vert",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-05T21:39:16.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "name.frag",
+              "DocumentMoniker": "C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\name.frag",
+              "RelativeDocumentMoniker": "RG project\\name.frag",
+              "ToolTip": "C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\name.frag",
+              "RelativeToolTip": "RG project\\name.frag",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-05T19:47:01.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "trake.frag",
+              "DocumentMoniker": "C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\trake.frag",
+              "RelativeDocumentMoniker": "RG project\\trake.frag",
+              "ToolTip": "C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\trake.frag",
+              "RelativeToolTip": "RG project\\trake.frag",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-04T23:55:33.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "raskrsnica.cpp",
+              "DocumentMoniker": "C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\raskrsnica.cpp",
+              "RelativeDocumentMoniker": "RG project\\raskrsnica.cpp",
+              "ToolTip": "C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\raskrsnica.cpp",
+              "RelativeToolTip": "RG project\\raskrsnica.cpp",
+              "ViewState": "AQIAANEBAAAAAAAAAAAAANYBAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T13:25:24.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Raskrsnica.h",
+              "DocumentMoniker": "C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\Raskrsnica.h",
+              "RelativeDocumentMoniker": "RG project\\Raskrsnica.h",
+              "ToolTip": "C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\Raskrsnica.h",
+              "RelativeToolTip": "RG project\\Raskrsnica.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-03T13:22:45.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\main.cpp",
+              "RelativeDocumentMoniker": "RG project\\main.cpp",
+              "ToolTip": "C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\main.cpp",
+              "RelativeToolTip": "RG project\\main.cpp",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T13:08:30.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "name.vert",
+              "DocumentMoniker": "C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\name.vert",
+              "RelativeDocumentMoniker": "RG project\\name.vert",
+              "ToolTip": "C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\name.vert",
+              "RelativeToolTip": "RG project\\name.vert",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-05T19:47:20.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "auto.vert",
+              "DocumentMoniker": "C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\auto.vert",
+              "RelativeDocumentMoniker": "RG project\\auto.vert",
+              "ToolTip": "C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\auto.vert",
+              "RelativeToolTip": "RG project\\auto.vert",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-05T21:05:26.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "basic.frag",
+              "DocumentMoniker": "C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\basic.frag",
+              "RelativeDocumentMoniker": "RG project\\basic.frag",
+              "ToolTip": "C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\basic.frag",
+              "RelativeToolTip": "RG project\\basic.frag",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-03T13:19:50.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "auto.frag",
+              "DocumentMoniker": "C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\auto.frag",
+              "RelativeDocumentMoniker": "RG project\\auto.frag",
+              "ToolTip": "C:\\Users\\komp\\Documents\\GitHub\\Grafika-projekat\\RG project\\RG project\\auto.frag",
+              "RelativeToolTip": "RG project\\auto.frag",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-05T21:05:52.454Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
